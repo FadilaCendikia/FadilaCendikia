@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Fadila Cendikia Muslim**.\
+Perkenalkan nama saya *Fadila Cendikia Muslim**.\
 
-Saya seorang **Mahasiswa** 
+Saya seorang **Mahasiswa** di [Universitas Mataram](https://unram.ac.id/?amp).\
